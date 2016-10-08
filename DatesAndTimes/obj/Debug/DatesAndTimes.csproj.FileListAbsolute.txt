@@ -1,0 +1,6 @@
+c:\users\james\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+c:\users\james\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+c:\users\james\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+c:\users\james\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+c:\users\james\documents\visual studio 2015\Projects\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb
